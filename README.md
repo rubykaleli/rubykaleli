@@ -16,51 +16,20 @@
   <a href="mailto:kaleliruveyda@gmail.com">
     <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rubykaleli&color=18181B&style=for-the-badge&label=VIEWS" alt="Profile views" />
 </p>
 
-Final-year **B.C.S. (Honours) &amp; Minor in Psychology** student at **Carleton University** (`2022–Present`), building web and mobile software between **Toronto** and **Ottawa**. Interested in the overlap between UI/UX design, mobile engineering, and usable everyday tools.
-
-Languages spoken: **English** (fluent) · **Turkish** (native) · **Greek** (conversational)
+Final-year **B.C.S. (Honours)** student at **Carleton University** building web and mobile software with a focus on clean UI/UX and practical everyday tools.
 
 ---
 
-### Selected Projects
+### Projects
 
-| Project | What It Does | Stack |
-| :--- | :--- | :--- |
-| **[portfolio2026](https://github.com/rubykaleli/portfolio2026)** · [Live](https://portfolio-zeta-bay-45.vercel.app/) | Personal site featuring interactive motion layouts and project case studies. | `Next.js` `TypeScript` `Tailwind` |
-| **[mangaScraper](https://github.com/rubykaleli/mangaScraper)** | Zero-dependency Python CLI for sequential chapter image scraping and binary-header / file-size banner quarantine. | `Python` `urllib` `unittest` |
-| **[WcPhoneLock](https://github.com/rubykaleli/WcPhoneLock)** | iOS focus app combining `CoreLocation` geofencing, `CoreMotion` magnetometer &amp; barometer checks, and Screen Time shields. | `SwiftUI` `CoreMotion` `FamilyControls` |
-| **Sillage** *(Concept)* | Full-stack fragrance discovery app with scent-note search, accord filtering, and personal wishlists. | `React Native` `Node.js` `PostgreSQL` |
-| **T2S Audiobook Reader** | Local macOS/iOS reader and voice-cloning studio built on SwiftData, AVFoundation, and quantized Apple MLX synthesis. | `SwiftUI` `Apple MLX` `PDFKit` |
+- **[portfolio2026](https://github.com/rubykaleli/portfolio2026)** · [Live Demo](https://portfolio-zeta-bay-45.vercel.app/) — Personal site with interactive motion layouts and case studies. `Next.js` `TypeScript` `Tailwind`
+- **[mangaScraper](https://github.com/rubykaleli/mangaScraper)** — Python CLI to scrape chapter images from manga series pages and quarantine promo banners. `Python`
+- **[WcPhoneLock](https://github.com/rubykaleli/WcPhoneLock)** — iOS focus prototype that locks distracting apps in the bathroom using multi-sensor room detection. `SwiftUI` `ScreenTime`
 
 ---
 
-### Experience
+### Tech Stack
 
-- **Marketing Specialist · Wood City Design** *(2024–2025)* — Maintained the company website, standardized UI components across pages, and produced digital campaign assets.
-- **IT Help Desk · The Learning Enrichment Foundation** *(2023)* — Supported AV and smartboard setups across 50+ weekly sessions, ran Zoom workshops, and automated spreadsheet reporting.
-
----
-
-### Stack
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td><code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Swift</code> <code>Java</code> <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td><strong>Frontend &amp; Mobile</strong></td>
-    <td><code>React</code> <code>Next.js</code> <code>React Native</code> <code>SwiftUI</code> <code>Tailwind CSS</code> <code>Framer Motion</code></td>
-  </tr>
-  <tr>
-    <td><strong>Backend &amp; Data</strong></td>
-    <td><code>Node.js</code> <code>PostgreSQL</code> <code>REST APIs</code> <code>SwiftData</code> <code>Apple MLX</code></td>
-  </tr>
-  <tr>
-    <td><strong>Design &amp; Workflow</strong></td>
-    <td><code>Figma</code> <code>Git</code> <code>XcodeGen</code> <code>Vercel</code></td>
-  </tr>
-</table>
+`TypeScript` · `Python` · `Swift` · `React / Next.js` · `React Native` · `SwiftUI` · `Node.js` · `PostgreSQL` · `Figma`
