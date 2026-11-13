@@ -32,4 +32,4 @@ Final-year **B.C.S. (Honours)** student at **Carleton University** building web 
 
 ### Tech Stack
 
-`TypeScript` · `Python` · `Swift` · `React / Next.js` · `React Native` · `SwiftUI` · `Node.js` · `PostgreSQL` · `Figma`
+`Python` · `Java` · `TypeScript` · `Swift` · `SQL` · `React / Next.js` · `React Native` · `SwiftUI` · `Node.js` · `MongoDB` · `PostgreSQL` · `Docker` · `Figma`
