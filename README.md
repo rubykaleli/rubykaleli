@@ -31,7 +31,7 @@ Languages spoken: **English** (fluent) · **Turkish** (native) · **Greek** (con
 | :--- | :--- | :--- |
 | **[portfolio2026](https://github.com/rubykaleli/portfolio2026)** · [Live](https://portfolio-zeta-bay-45.vercel.app/) | Personal site featuring interactive motion layouts and project case studies. | `Next.js` `TypeScript` `Tailwind` |
 | **[mangaScraper](https://github.com/rubykaleli/mangaScraper)** | Zero-dependency Python CLI for sequential chapter image scraping and binary-header / file-size banner quarantine. | `Python` `urllib` `unittest` |
-| **[WcPhoneLock](https://github.com/kalelimmehmet/WcPhoneLock)** *(Collaborator)* | iOS focus app combining `CoreLocation` geofencing, `CoreMotion` magnetometer &amp; barometer checks, and Screen Time shields. | `SwiftUI` `CoreMotion` `FamilyControls` |
+| **[WcPhoneLock](https://github.com/rubykaleli/WcPhoneLock)** | iOS focus app combining `CoreLocation` geofencing, `CoreMotion` magnetometer &amp; barometer checks, and Screen Time shields. | `SwiftUI` `CoreMotion` `FamilyControls` |
 | **Sillage** *(Concept)* | Full-stack fragrance discovery app with scent-note search, accord filtering, and personal wishlists. | `React Native` `Node.js` `PostgreSQL` |
 | **T2S Audiobook Reader** | Local macOS/iOS reader and voice-cloning studio built on SwiftData, AVFoundation, and quantized Apple MLX synthesis. | `SwiftUI` `Apple MLX` `PDFKit` |
 
